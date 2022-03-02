@@ -13,4 +13,5 @@ function login(){
     }
     let myjsonStr = JSON.stringify(jsonObj)
     alert(myjsonStr)
+    document.getElementById("main_data").innerHTML = myjsonStr;
 }
