@@ -27,3 +27,12 @@ button{
     cursor: pointer;
     background-color: gold;
 }
+label{
+    height: 20vh;
+    width: 100vw;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 30vh;
+}
